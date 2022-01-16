@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="google_maps_api_key">AIzaSyCHUi0vE4Bh8VrV9oW12qKpcbnR-NUxyJ0</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="resend_verification_email">Resend Verification Email</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="tabian_consulting_logo">Tabian Consulting Logo</string>
+    <string name="email_registration">Email Registration</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <!-- Firestore Strings -->
+    <string name="collection_users">Users</string>
+    <string name="collection_chatrooms">Chatrooms</string>
+    <string name="collection_chat_messages">Chat Messages</string>
+    <string name="collection_chatroom_user_list">User List</string>
+    <string name="collection_user_locations">User Locations</string>
+    <string name="collection_customers">workers</string>
+    <string name="collection_customers_locations">worker Locations</string>
+
+
+    <!-- Intent extras -->
+    <string name="intent_chatroom">intent_chatroom</string>
+    <string name="intent_user_list">intent_user_list</string>
+    <string name="intent_user_locations">intent_user_locations</string>
+    <string name="intent_location">intent_location</string>
+
+    <!-- Service and Broadcasts -->
+    <string name="gps_location">gps_location</string>
+
+
+    <!-- Fragments Names -->
+    <string name="fragment_user_list">User List</string>
+    <string name="fragment_image_list">Image List</string>
+
+    <!-- Other Strings -->
+    <string name="action_create_chatroom">Create Chatroom</string>
+    <string name="action_leave_chatroom">Leave chatroom</string>
+    <string name="action_chatroom_user_list">User list</string>
+    <string name="action_profile">Profile</string>
+    <string name="e">e</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP</string>
+
+
+
+
+
+
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_signout">Sign Out</string>
+    <string name="menu_contact">Contact Us</string>
+
+
+    <string name="domain_name">https://putatoe.herokuapp.com/</string>
+    <string name="test_domain_name">http://127.0.0.1:8080/</string>
+    <string name="login_url">login</string>
+    <string name="registration_url">register</string>
+    <string name="cities_url">api/v1/cities</string>
+    <string name="service_city_url">api/v1/service/city/</string>
+    <string name="product_service_url">api/v1/product/service/</string>
+    <string name="paytm_checksum_url">api/v1/paytm/checksum/</string>
+    <string name="user_details_by_mobile">api/v1/user/mobile/</string>
+    <string name="create_booking">api/v1/create/booking</string>
+    <string name="send_email">api/v1/sendEmail</string>
+
+    <string name="title_activity_basic_home">BasicHomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_offer">Offer</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_wallet">Wallet</string>
+
+    <string name="Rs">\u20B9</string>
+    <string name="location_null_message">Location Service is Unavailable.We will restart the app now.</string>
+    <string name="order_placed">Order Placed Successfully</string>
+    <string name="referral_message">Share the above code with your friends and once they register with the code,you will earn Rs.50</string>
+
+</resources>
